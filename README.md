@@ -59,12 +59,6 @@ me = ThomasCorcoral()
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/thomas-corcoral">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-corcoral&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
