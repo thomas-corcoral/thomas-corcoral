@@ -20,41 +20,7 @@
 
 ---
 
-### 🚀 About Me
-
-```python
-class ThomasCorcoral:
-    def __init__(self):
-        self.role = "Senior GenAI Engineer @ AXA"
-        self.location = "Winterthur, Zurich 🇨🇭"
-        self.education = "MSc Computer Science (AI) - Sorbonne University"
-        self.languages = ["Python", "SQL", "Shell", "C++", "Java", "JavaScript"]
-        self.expertise = [
-            "LLM/GenAI Systems",
-            "Agent Orchestration (LangGraph, ADK, A2A Protocol, MCP)",
-            "Information Retrieval & Ranking",
-            "ML Evaluation Pipelines"
-        ]
-        self.current_focus = "Building enterprise-scale AI agents & LLM evaluation systems"
-    
-    def achievements(self):
-        return {
-            "recall@5": "93%",
-            "ir_improvement": "65% → 88%",
-            "cost_reduction": "98%",
-            "latency_p95": "4s → 2s"
-        }
-
-me = ThomasCorcoral()
-```
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/thomas-corcoral">
-    <img src="https://github-stats-alpha.vercel.app/api?username=thomas-corcoral&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats"/>
+&ic=fff&bc=0000" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomas-corcoral&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
